@@ -1,5 +1,5 @@
 # throwaway
 
-first
-second
-third
+- first
+- second
+- third
